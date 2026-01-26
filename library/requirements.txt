@@ -1,0 +1,8 @@
+ipykernel
+openai
+pandoc
+pydantic
+PyMuPDF
+Pyyaml
+requests
+style
