@@ -1,3 +1,5 @@
+.gitignore
 config.yaml
 library/Pipfile
 library/Pipfile.lock
+library/.venv
